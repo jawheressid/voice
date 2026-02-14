@@ -1,0 +1,10 @@
+# Ignore Vosk model
+vosk-model-small-ar-tn-0.1-linto/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore transcription outputs
+transcription_result.json
+transcription_result.txt
